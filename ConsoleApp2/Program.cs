@@ -23,6 +23,7 @@ namespace ConsoleApp2
                 input /= 10;
             }
             Console.WriteLine(sum);
+            //added new branch
         }
     }
 
